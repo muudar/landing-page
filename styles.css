@@ -7,6 +7,10 @@
     color : #F9FAF8;
     font-weight: bold;
 }
+
+.header-logo-container{
+    width: 100%;
+}
 .top-page{
     background-color: #1F2937;
     padding: 20px 250px 80px 250px;
@@ -58,6 +62,22 @@ button{
     height: 150px;
     width: 170px;
     border: 5px solid #3882F6;
+}
+
+.section3{
+    background-color: #E5E7EB;
+    padding: 150px 500px 150px 500px;
+}
+
+.section3-text{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+
+.quoter{
+    width: 100%;
 }
 
 .column-container{
