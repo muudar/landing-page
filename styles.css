@@ -36,6 +36,30 @@ button{
     width:100%;
 }
 
+.center{
+    display:flex;
+    width:100%;
+    justify-content:center;
+    gap: 3%;
+}
+
+.image-section2{
+    height: 100%;
+    width: 170px;
+}
+
+.underbox-text{
+    color:grey;
+    text-align: center;
+}
+
+
+.bluebox{
+    height: 150px;
+    width: 170px;
+    border: 5px solid #3882F6;
+}
+
 .column-container{
     display:flex;
 }
@@ -70,4 +94,18 @@ button{
 
 .main{
     width: 30%;
+}
+
+.section2{
+    display:flex;
+    width:100%;
+}
+
+.section2header{
+    font-weight: bold;
+    font-size: 36px;
+    color: #1F2937;
+    width:100%;
+    display:flex;
+    justify-content:center;
 }
