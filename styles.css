@@ -21,6 +21,27 @@
     color: #F9FAF8;
 }
 
+.actionbox{
+    background-color: #3882F6;
+    display: flex;
+    padding: 80px 180px 80px 150px;
+}
+
+.action-text{
+    color:white;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#action-button{
+    margin-left: auto;
+    border: 2px solid white;
+}
+
+.section4{
+    padding: 150px 200px 200px 200px;
+}
+
 .headers{
     display:flex;
     justify-content: space-between;
@@ -38,6 +59,15 @@ button{
 .container{
     display:flex;
     width:100%;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color : #1F2937;
+    height: 100px;
 }
 
 .center{
